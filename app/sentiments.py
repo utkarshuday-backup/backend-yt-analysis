@@ -107,6 +107,3 @@ def getSentimentScores(comments, videoId):
                 sentimentCounts=sentiment_counts
                 )
   return result
-
-
-# print(clean_comments(comments))
